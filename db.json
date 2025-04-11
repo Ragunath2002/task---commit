@@ -1,0 +1,35 @@
+{
+  "messages": [
+    {
+      "id": "af16",
+      "text": "good morning",
+      "response": "hi, how can I help?"
+    },
+    {
+      "id": "af17",
+      "text": "hello",
+      "response": "Welcome!"
+    },
+    {
+      "id": "af18",
+      "text": "Show my Pay slips",
+      "response": "Here are your recent pay slips."
+    },
+    {
+      "id": "af19",
+      "text": "Salary Breakdown",
+      "response": "Here's the breakdown of your salary."
+    },
+    {
+      "id": "af20",
+      "text": "Pay slips History",
+      "response": "Fetching your pay slips history..."
+    },
+    {
+      "id": "af21",
+      "text": "Payment Details",
+      "response": "These are your payment details."
+    }
+  ],
+  "chat": []
+}
